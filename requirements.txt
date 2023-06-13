@@ -1,0 +1,5 @@
+langchain==0.0.198
+pinecone_client==2.2.1
+python-dotenv==1.0.0
+streamlit==1.22.0
+streamlit_lottie==0.0.5
